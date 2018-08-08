@@ -6,5 +6,6 @@ package com.baizhi.xyy.test;
 public class Test {
     public static void main(String[] args) {
         System.out.println("这是我第一次测试");
+        System.out.println("这是我第二次测试");
     }
 }
